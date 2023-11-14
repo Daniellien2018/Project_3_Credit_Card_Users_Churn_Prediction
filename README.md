@@ -10,3 +10,5 @@ Thera Bank is a bank that is currently losing customers to credit card churn. Th
 ## Technologies 
 - NumPy, Pandas - Data Manipulation
 - MatplotLib, Seaborn - Data Visualization
+- Sklearn, Sklearn.ensemble - Model Building.
+  
